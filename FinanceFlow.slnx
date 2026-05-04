@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FinanceFlow.Business/FinanceFlow.Business.csproj" />
+  <Project Path="FinanceFlow.Data/FinanceFlow.Data.csproj" />
+  <Project Path="FinanceFlow.Domain/FinanceFlow.Domain.csproj" />
+  <Project Path="FinanceFlow.WPF/FinanceFlow.WPF.csproj" />
+</Solution>
